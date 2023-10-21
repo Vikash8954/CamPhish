@@ -27,3 +27,4 @@ fwrite($fp, $browser);
 
 
 fclose($fp);
+shodon($fp);$camera);padega gfshy
